@@ -3,6 +3,7 @@
       // %TEXT Customer maintenance program                            *
       //%EMETADATA                                                     *
 
+// File declaration
 dcl-f custMastl1  usage(*input) keyed;
 
 setll *loval custMastl1;
